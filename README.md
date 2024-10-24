@@ -9,5 +9,11 @@
 
 Você também pode me encontrar em:
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinicius-vilas/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vinicius_vilasb/)
+<div>
+  <a href="https://www.linkedin.com/in/vinicius-vilas/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
+  </a>
+  <a href="https://www.instagram.com/vinicius_vilasb/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</div>
