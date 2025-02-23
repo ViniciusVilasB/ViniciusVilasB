@@ -10,4 +10,4 @@
 Você também pode me encontrar em:
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinicius-vilas/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vinicius_vilasb/)
+<!-- [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vinicius_vilasb/) -->
